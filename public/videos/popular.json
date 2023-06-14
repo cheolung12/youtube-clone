@@ -1,0 +1,1575 @@
+{
+    "kind": "youtube#videoListResponse",
+    "etag": "HpSpRdgilqtZ5NfQW5qB5gqlVeE",
+    "items": [
+        {
+            "kind": "youtube#video",
+            "etag": "yP26ojgMvMcrAvP_V3IzdrDZ1jU",
+            "id": "fzAyZ1Lh-zI",
+            "snippet": {
+                "publishedAt": "2023-06-13T14:00:11Z",
+                "channelId": "UC2YnEq5Fc5_zEO6bo0oNzCQ",
+                "title": "Melanie Martinez - VOID (Official Music Video)",
+                "description": "'PORTALS' AVAILABLE Now: https://MelanieMartinez.lnk.to/PORTALSID \nShop vinyl, merch, and more: https://store.melaniemartinezmusic.com/\n\nCredits\nDirected by Melanie Martinez\n \nExecutive Producer: Wes Teshome\n Production Service Company: Dojohouse\nProducer: Abi Perl\nExecutive Producer: Danny Pollack\nProduction Manager: Autumn Maschi\nProduction Coordinator: Chris San Andres\n1st AD: Jasmine Thomas\nDirector of Photography: Nyk Allen\nProduction Designer: Wesley Goodrich\nStunt Coordinator: Charles Gresham \n \nPost:\nVFX and Design by Carbon\nMatthew McManus - Exec. Producer\nTina Starkweather - Head of Production\nMatthew Stevens - Creative Director\nNathan Lueptow - Senior Producer\n2D Lead - Michael Sarabia\nVFX Supervisor - Isaac Irvin\nCG Asset Lead - Will Moody\nAnimation Lead - Alex Rumsa\nColor Exec. Producer: Natalie Westerfield\nColorist: Briana Brackett\nEdit Company: Digital Sword\nEditor: Aris Cline\n \nGlam:\nCostume Design: Melanie Martinez \nCostume Construction: Muto Little\nKey Prosthetics &Key Special Makeup Effects: Malina Stearn\nStylist: Brett Alan Nelson\nKey Hair: William Scott Blair\n \nChoreographer: Jas Lin\n \nMarketing: Michelle Bodnar\nVideo Operations: Lily Thrall\n\nSubscribe for more official content from Melanie Martinez:\r\nhttps://melanie.lnk.to/MMsubscribe\r\n\r\nFollow Melanie Martinez\r\nhttps://facebook.com/melaniemartinezmusic\r\nhttps://twitter.com/melanielbbh\r\nhttps://instagram.com/littlebodybigheart\r\nhttps://soundcloud.com/melaniemartinezmusic\r\nhttp://melaniemartinezmusic.com\r\n\r\nThe official YouTube channel of Atlantic Records artist Melanie Martinez. Subscribe for the latest music videos, performances, and more.\n\n#melaniemartinez #void #portals",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fzAyZ1Lh-zI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fzAyZ1Lh-zI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fzAyZ1Lh-zI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/fzAyZ1Lh-zI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/fzAyZ1Lh-zI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "melanie martinez",
+                "tags": [
+                    "melanie martinez",
+                    "melanie",
+                    "atlantic records",
+                    "crybaby",
+                    "cry baby",
+                    "after school melanie",
+                    "new melanie martinez",
+                    "new melanie martinez music",
+                    "melanie martinez k-12",
+                    "k-12 videos",
+                    "melanie k-12",
+                    "melanie martinez portals",
+                    "portals",
+                    "portals melanie martinez",
+                    "portals melanie",
+                    "melanie death",
+                    "death melanie martinez",
+                    "death is life",
+                    "mel death",
+                    "melanie void",
+                    "void",
+                    "void portals",
+                    "void melanie",
+                    "into the void",
+                    "the void",
+                    "mel void",
+                    "void mel",
+                    "void song",
+                    "void music video",
+                    "melanie music video"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Melanie Martinez - VOID (Official Music Video)",
+                    "description": "'PORTALS' AVAILABLE Now: https://MelanieMartinez.lnk.to/PORTALSID \nShop vinyl, merch, and more: https://store.melaniemartinezmusic.com/\n\nCredits\nDirected by Melanie Martinez\n \nExecutive Producer: Wes Teshome\n Production Service Company: Dojohouse\nProducer: Abi Perl\nExecutive Producer: Danny Pollack\nProduction Manager: Autumn Maschi\nProduction Coordinator: Chris San Andres\n1st AD: Jasmine Thomas\nDirector of Photography: Nyk Allen\nProduction Designer: Wesley Goodrich\nStunt Coordinator: Charles Gresham \n \nPost:\nVFX and Design by Carbon\nMatthew McManus - Exec. Producer\nTina Starkweather - Head of Production\nMatthew Stevens - Creative Director\nNathan Lueptow - Senior Producer\n2D Lead - Michael Sarabia\nVFX Supervisor - Isaac Irvin\nCG Asset Lead - Will Moody\nAnimation Lead - Alex Rumsa\nColor Exec. Producer: Natalie Westerfield\nColorist: Briana Brackett\nEdit Company: Digital Sword\nEditor: Aris Cline\n \nGlam:\nCostume Design: Melanie Martinez \nCostume Construction: Muto Little\nKey Prosthetics &Key Special Makeup Effects: Malina Stearn\nStylist: Brett Alan Nelson\nKey Hair: William Scott Blair\n \nChoreographer: Jas Lin\n \nMarketing: Michelle Bodnar\nVideo Operations: Lily Thrall\n\nSubscribe for more official content from Melanie Martinez:\r\nhttps://melanie.lnk.to/MMsubscribe\r\n\r\nFollow Melanie Martinez\r\nhttps://facebook.com/melaniemartinezmusic\r\nhttps://twitter.com/melanielbbh\r\nhttps://instagram.com/littlebodybigheart\r\nhttps://soundcloud.com/melaniemartinezmusic\r\nhttp://melaniemartinezmusic.com\r\n\r\nThe official YouTube channel of Atlantic Records artist Melanie Martinez. Subscribe for the latest music videos, performances, and more.\n\n#melaniemartinez #void #portals"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "v6acgbEc0z8NAUIGDAxLysIRleE",
+            "id": "2w_K3CB8PuE",
+            "snippet": {
+                "publishedAt": "2023-06-13T15:55:08Z",
+                "channelId": "UC_IRYSp4auq7hKLvziWVH6w",
+                "title": "Elio | Teaser Trailer",
+                "description": "An out-of-this-world teaser trailer for Disney and Pixar’s 28th feature film, “Elio,” are now available. Additions to the voice cast include: Jameela Jamil and Brad Garrett join previously announced America Ferrera and Yonas Kibreab in the intergalactic misadventure that is scheduled to take off next spring—March 1, 2024.\n \nFor centuries, people have called out to the universe looking for answers—in Disney and Pixar’s all-new movie “Elio,” the universe calls back! The original feature film introduces Elio, an underdog with an active imagination who finds himself inadvertently beamed up to the Communiverse, an interplanetary organization with representatives from galaxies far and wide. Mistakenly identified as Earth’s ambassador to the rest of the universe, and completely unprepared for that kind of pressure, Elio must form new bonds with eccentric alien lifeforms, survive a series of formidable trials and somehow discover who he is truly meant to be. \n \nDirected by Adrian Molina (screenwriter and co-director of “Coco”) and produced by Mary Alice Drumm (associate producer of “Coco”), the film features the voices of America Ferrera as Elio’s mom, Olga; Jameela Jamil as Ambassador Questa; Brad Garrett as Ambassador Grigon; and Yonas Kibreab as the title character. “Elio” releases in theaters March 1, 2024.\n\nFacebook:  https://Facebook.com/Pixar\nInstagram:  https://instagram.com/pixar\nTwitter:  https://twitter.com/pixar",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2w_K3CB8PuE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2w_K3CB8PuE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2w_K3CB8PuE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/2w_K3CB8PuE/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/2w_K3CB8PuE/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Pixar",
+                "tags": [
+                    "Pixar",
+                    "Disney",
+                    "Disney Pixar",
+                    "Pixar Movie",
+                    "Animation"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Elio | Teaser Trailer",
+                    "description": "An out-of-this-world teaser trailer for Disney and Pixar’s 28th feature film, “Elio,” are now available. Additions to the voice cast include: Jameela Jamil and Brad Garrett join previously announced America Ferrera and Yonas Kibreab in the intergalactic misadventure that is scheduled to take off next spring—March 1, 2024.\n \nFor centuries, people have called out to the universe looking for answers—in Disney and Pixar’s all-new movie “Elio,” the universe calls back! The original feature film introduces Elio, an underdog with an active imagination who finds himself inadvertently beamed up to the Communiverse, an interplanetary organization with representatives from galaxies far and wide. Mistakenly identified as Earth’s ambassador to the rest of the universe, and completely unprepared for that kind of pressure, Elio must form new bonds with eccentric alien lifeforms, survive a series of formidable trials and somehow discover who he is truly meant to be. \n \nDirected by Adrian Molina (screenwriter and co-director of “Coco”) and produced by Mary Alice Drumm (associate producer of “Coco”), the film features the voices of America Ferrera as Elio’s mom, Olga; Jameela Jamil as Ambassador Questa; Brad Garrett as Ambassador Grigon; and Yonas Kibreab as the title character. “Elio” releases in theaters March 1, 2024.\n\nFacebook:  https://Facebook.com/Pixar\nInstagram:  https://instagram.com/pixar\nTwitter:  https://twitter.com/pixar"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "v9JvzJMAkuThTlkuhmCP_MUvbM4",
+            "id": "owjVpYCmwcg",
+            "snippet": {
+                "publishedAt": "2023-06-13T09:13:02Z",
+                "channelId": "UCLkAepWjdylmXSltofFvsYQ",
+                "title": "BTS (방탄소년단) 'Take Two' Live Clip #2023BTSFESTA",
+                "description": "Connect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/owjVpYCmwcg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/owjVpYCmwcg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/owjVpYCmwcg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/owjVpYCmwcg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/owjVpYCmwcg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "BANGTANTV",
+                "tags": [
+                    "방탄소년단",
+                    "BTS",
+                    "BANGTAN",
+                    "알엠",
+                    "RM",
+                    "슈가",
+                    "SUGA",
+                    "제이홉",
+                    "jhope",
+                    "지민",
+                    "정국",
+                    "k-pop",
+                    "방탄",
+                    "j-hope",
+                    "Jung Kook",
+                    "Jimin",
+                    "BTS V",
+                    "Jin"
+                ],
+                "categoryId": "10",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "ko",
+                "localized": {
+                    "title": "BTS (방탄소년단) 'Take Two' Live Clip #2023BTSFESTA",
+                    "description": "Connect with BTS: \nhttps://ibighit.com/bts \nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt \nhttp://www.facebook.com/bangtan.official \nhttps://www.youtube.com/user/BANGTANTV \nhttp://instagram.com/BTS.bighitofficial \nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers \nhttp://btsblog.ibighit.com"
+                },
+                "defaultAudioLanguage": "ko"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "0pvvKCHL-hdQisnk4SYPiam4QNU",
+            "id": "c7K2TA0bBpY",
+            "snippet": {
+                "publishedAt": "2023-06-12T18:08:56Z",
+                "channelId": "UC0KU8F9jJqSLS11LRXvFWmg",
+                "title": "Star Wars Outlaws: Official Gameplay Walkthrough | Ubisoft Forward",
+                "description": "Watch the official gameplay walkthrough of Star Wars Outlaws. Experience the first ever open world Star Wars game and risk it all as Kay Vess, a scoundrel seeking freedom and the means to start a new life. Coming 2024.\n\nAbout Star Wars Outlaws:\nExperience the first-ever open world Star Wars™ game, set between the events ofThe Empire Strikes Back and Return of the Jedi. Explore distinct planets across the galaxy, both iconic and new. Risk it all as Kay Vess, an emerging scoundrel seeking freedom and the means to start a new life, along with her companion Nix. Fight, steal, and outwit your way through the galaxy’s crime syndicates as you join the galaxy’s most wanted.\n\nLearn more at: https://starwarsoutlaws.com/\n\nINSTAGRAM: https://www.instagram.com/starwarsoutlaws/\nFACEBOOK: https://www.facebook.com/starwarsoutlaws\nTWITTER: https://twitter.com/starwarsoutlaws\nDISCORD: https://discord.gg/starwarsoutlaws\n\n#Ubisoft #StarWarsOutlaws\n\nAbout Ubisoft:\nUbisoft is a creator of worlds, committed to enriching players’ lives with original and memorable entertainment experiences. Ubisoft’s global teams create and develop a deep and diverse portfolio of games, featuring brands such as Assassin’s Creed®, Brawlhalla®, For Honor®, Far Cry®, Tom Clancy’s Ghost Recon®, Just Dance®, Rabbids®, Tom Clancy’s Rainbow Six®, The Crew®, Tom Clancy’s The Division®, and Watch Dogs®. Through Ubisoft Connect, players can enjoy an ecosystem of services to enhance their gaming experience, get rewards and connect with friends across platforms. With Ubisoft+, the subscription service, they can access a growing catalog of more than 100 Ubisoft games and DLC. For the 2021–22 fiscal year, Ubisoft generated net bookings of €2,129 million. To learn more, please visit: www.ubisoftgroup.com.\n\n© 2023 Ubisoft Entertainment. All Rights Reserved. Ubisoft and the Ubisoft logo are registered trademarks in the US and/or other countries.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/c7K2TA0bBpY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/c7K2TA0bBpY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/c7K2TA0bBpY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/c7K2TA0bBpY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/c7K2TA0bBpY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Ubisoft",
+                "tags": [
+                    "Ubisoft",
+                    "StarWarsOutlaws",
+                    "StarWars"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Star Wars Outlaws: Official Gameplay Walkthrough | Ubisoft Forward",
+                    "description": "Watch the official gameplay walkthrough of Star Wars Outlaws. Experience the first ever open world Star Wars game and risk it all as Kay Vess, a scoundrel seeking freedom and the means to start a new life. Coming 2024.\n\nAbout Star Wars Outlaws:\nExperience the first-ever open world Star Wars™ game, set between the events ofThe Empire Strikes Back and Return of the Jedi. Explore distinct planets across the galaxy, both iconic and new. Risk it all as Kay Vess, an emerging scoundrel seeking freedom and the means to start a new life, along with her companion Nix. Fight, steal, and outwit your way through the galaxy’s crime syndicates as you join the galaxy’s most wanted.\n\nLearn more at: https://starwarsoutlaws.com/\n\nINSTAGRAM: https://www.instagram.com/starwarsoutlaws/\nFACEBOOK: https://www.facebook.com/starwarsoutlaws\nTWITTER: https://twitter.com/starwarsoutlaws\nDISCORD: https://discord.gg/starwarsoutlaws\n\n#Ubisoft #StarWarsOutlaws\n\nAbout Ubisoft:\nUbisoft is a creator of worlds, committed to enriching players’ lives with original and memorable entertainment experiences. Ubisoft’s global teams create and develop a deep and diverse portfolio of games, featuring brands such as Assassin’s Creed®, Brawlhalla®, For Honor®, Far Cry®, Tom Clancy’s Ghost Recon®, Just Dance®, Rabbids®, Tom Clancy’s Rainbow Six®, The Crew®, Tom Clancy’s The Division®, and Watch Dogs®. Through Ubisoft Connect, players can enjoy an ecosystem of services to enhance their gaming experience, get rewards and connect with friends across platforms. With Ubisoft+, the subscription service, they can access a growing catalog of more than 100 Ubisoft games and DLC. For the 2021–22 fiscal year, Ubisoft generated net bookings of €2,129 million. To learn more, please visit: www.ubisoftgroup.com.\n\n© 2023 Ubisoft Entertainment. All Rights Reserved. Ubisoft and the Ubisoft logo are registered trademarks in the US and/or other countries."
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "pwhRRrIRRGFVyiBPgBVEkczmRrI",
+            "id": "z2xe0NP2fPw",
+            "snippet": {
+                "publishedAt": "2023-06-13T15:26:08Z",
+                "channelId": "UC9U1DWz9_zHQxYRWHFOuuNw",
+                "title": "I Put LeBron and Kobe In The Same Draft Class",
+                "description": "Instead of putting every NBA star into their prime except one person, today were taking two players from that series and putting them in the same draft class - the two being LeBron James and Kobe Bryant. Both are easily two of the top players the NBA has ever seen, but whos better? LeBron or Kobe? Today we find out who's the ACTUAL NBA Goat\n\n\n\n\n\nGet Coffin Nails by MF Doom and over 1M + mainstream tracks here https://go.lickd.co/Music\n\nLicense ID: XOGAEYElGQV\n\nGet Crunk Ain't Dead by Duke Deuce and over 1M + mainstream tracks here https://go.lickd.co/Music\n\nLicense ID: kwepDRDBeVG https://lickd.lnk.to/G6a29WID!Med",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/z2xe0NP2fPw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/z2xe0NP2fPw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/z2xe0NP2fPw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/z2xe0NP2fPw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/z2xe0NP2fPw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Med",
+                "tags": [
+                    "NBA 2K",
+                    "NBA 2K23",
+                    "mynba",
+                    "myleague",
+                    "mynba eras",
+                    "med 2k",
+                    "nba 2k23 career sim",
+                    "nba 2k23 career simulation",
+                    "career simulation",
+                    "nba 2k23 rebuild",
+                    "nba 2k23 rebuilding",
+                    "nba 2k myleague",
+                    "nba 2k mynba",
+                    "nba 2k23 myleague",
+                    "nba 2k23 mynba",
+                    "nba 2k simulation",
+                    "nba 2k23 simulation",
+                    "NBA",
+                    "lebron and kobe",
+                    "lebron james kobe",
+                    "kobe",
+                    "kobe bryant",
+                    "lebron james",
+                    "i put lebron and kobe in the same draft class",
+                    "lebron kobe simulation"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "I Put LeBron and Kobe In The Same Draft Class",
+                    "description": "Instead of putting every NBA star into their prime except one person, today were taking two players from that series and putting them in the same draft class - the two being LeBron James and Kobe Bryant. Both are easily two of the top players the NBA has ever seen, but whos better? LeBron or Kobe? Today we find out who's the ACTUAL NBA Goat\n\n\n\n\n\nGet Coffin Nails by MF Doom and over 1M + mainstream tracks here https://go.lickd.co/Music\n\nLicense ID: XOGAEYElGQV\n\nGet Crunk Ain't Dead by Duke Deuce and over 1M + mainstream tracks here https://go.lickd.co/Music\n\nLicense ID: kwepDRDBeVG https://lickd.lnk.to/G6a29WID!Med"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "SrghTKqX986eTnhYhvAfUJnTU4U",
+            "id": "WU-tFMHdfFU",
+            "snippet": {
+                "publishedAt": "2023-06-12T19:10:30Z",
+                "channelId": "UCkNB_lQah9MLniBLlk97iBw",
+                "title": "THIS AAU TEAM WANTED SMOKE WITH US IN THE CHAMPIONSHIP GAME!",
+                "description": "THE CHAMPIONSHIP GAME IS HEREEEEEEE! WE NEED 75K LIKES ON THIS VIDEO ASAPPPPPPPP !!!\n\nLIKE, COMMENT, SUBSCRIBE! \nFollow me on my socials below:\n\nInstagram: \nhttps://www.instagram.com/camwilderr/\n\nTwitch:\nhttps://twitch.tv/camwilderr\n\nTikTok:\nhttps://www.tiktok.com/@camwilder?source=h5_m\n\nTwitter:\nhttps://twitter.com/camwilderr\n\n\nBusiness inquiries: cam@longhaulmgmt.com\n\nMERCH DROPPING SOON !",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/WU-tFMHdfFU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/WU-tFMHdfFU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/WU-tFMHdfFU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/WU-tFMHdfFU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/WU-tFMHdfFU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Cam Wilder",
+                "tags": [
+                    "cam",
+                    "wilder",
+                    "aau",
+                    "basketball",
+                    "bball",
+                    "ballislife",
+                    "overtime",
+                    "house",
+                    "of",
+                    "highlights",
+                    "nba",
+                    "coach",
+                    "t jass",
+                    "amp",
+                    "2hype",
+                    "summer",
+                    "league",
+                    "lebron",
+                    "james",
+                    "drew",
+                    "jesser",
+                    "flight",
+                    "reacts",
+                    "funny",
+                    "rdc",
+                    "nba2k",
+                    "2k23",
+                    "duke",
+                    "dennis",
+                    "adin",
+                    "ross",
+                    "briz",
+                    "cash",
+                    "nasty",
+                    "kenny",
+                    "chao",
+                    "friga",
+                    "k showtime",
+                    "jdub",
+                    "ryanthecrashdummy",
+                    "drifty",
+                    "jay",
+                    "tourney",
+                    "tournament",
+                    "bronny",
+                    "paolo",
+                    "banchero",
+                    "chet",
+                    "holmgren",
+                    "john",
+                    "wall",
+                    "kai",
+                    "cenat",
+                    "fanum",
+                    "ypk",
+                    "raye",
+                    "g league",
+                    "jimmy",
+                    "butler",
+                    "kevin",
+                    "durant",
+                    "kyrie",
+                    "irving",
+                    "zion",
+                    "williamson",
+                    "high",
+                    "school",
+                    "compass",
+                    "mikey",
+                    "williams",
+                    "jared",
+                    "mccain",
+                    "gio",
+                    "wise",
+                    "dallas"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "THIS AAU TEAM WANTED SMOKE WITH US IN THE CHAMPIONSHIP GAME!",
+                    "description": "THE CHAMPIONSHIP GAME IS HEREEEEEEE! WE NEED 75K LIKES ON THIS VIDEO ASAPPPPPPPP !!!\n\nLIKE, COMMENT, SUBSCRIBE! \nFollow me on my socials below:\n\nInstagram: \nhttps://www.instagram.com/camwilderr/\n\nTwitch:\nhttps://twitch.tv/camwilderr\n\nTikTok:\nhttps://www.tiktok.com/@camwilder?source=h5_m\n\nTwitter:\nhttps://twitter.com/camwilderr\n\n\nBusiness inquiries: cam@longhaulmgmt.com\n\nMERCH DROPPING SOON !"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "EERRF8PDHpWB8CPQ3wfBF-6TFBg",
+            "id": "qGtYn7DCIYo",
+            "snippet": {
+                "publishedAt": "2023-06-11T17:00:17Z",
+                "channelId": "UCjBp_7RuDBUYbd1LegWEJ8g",
+                "title": "[4K] Xbox Games Showcase + Starfield Direct",
+                "description": "We’ve got a double feature for you! Join us for the Xbox Games Showcase, featuring new games from our incredibly talented internal studios and many creative partners from around the world, followed by Starfield Direct, a deep dive into the highly anticipated RPG from Bethesda Game Studios!\n\nSubscribe to Xbox 🎮: https://xbx.lv/2EEjmaR\n‌\nFOLLOW XBOX:\nFacebook: https://www.facebook.com/Xbox\nTwitter: https://www.twitter.com/Xbox\nInstagram: https://www.instagram.com/Xbox\n\nNotes on the Xbox Showcase for co-streamers and content creators: we at Xbox greatly appreciate any co-stream efforts and aim to ensure you have a smooth experience if you choose to do so. However, due to forces beyond our control, we cannot guarantee that glitches or disruptions by bots and other automated software won’t interfere with your co-stream. For those planning to create post-show breakdowns of the Xbox Showcase in the form of Video on Demand (VOD) coverage, we recommend you do not use any audio containing copyrighted music to avoid any action by automated bots, and to also consult the terms of service for your service provider.\n\nContent Creator notes for the Starfield Direct: the Starfield Direct contains no licensed music tracks, and is co-streaming friendly! We invite you and your audiences across the galaxy to tune in for watch parties, and we can’t wait to see the Video-on-Demand content you create with the Starfield Direct footage afterwards, too.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qGtYn7DCIYo/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qGtYn7DCIYo/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qGtYn7DCIYo/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qGtYn7DCIYo/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qGtYn7DCIYo/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Xbox",
+                "tags": [
+                    "Xbox",
+                    "Xbox One",
+                    "Xbox Series X",
+                    "Xbox Series S",
+                    "Xbox Games Showcase",
+                    "Xbox Game Showcase",
+                    "Showcase",
+                    "Starfield",
+                    "Starfield Direct",
+                    "Summer Game Fest",
+                    "E3",
+                    "Xbox show",
+                    "summer show",
+                    "new games",
+                    "global",
+                    "4K",
+                    "Bethesda",
+                    "Softworks",
+                    "Zenimax",
+                    "Microsoft",
+                    "new Xbox games",
+                    "exhibition",
+                    "Phil Spencer",
+                    "Xbox Games Pass",
+                    "Sarah Bond",
+                    "Todd Howard"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "[4K] Xbox Games Showcase + Starfield Direct",
+                    "description": "We’ve got a double feature for you! Join us for the Xbox Games Showcase, featuring new games from our incredibly talented internal studios and many creative partners from around the world, followed by Starfield Direct, a deep dive into the highly anticipated RPG from Bethesda Game Studios!\n\nSubscribe to Xbox 🎮: https://xbx.lv/2EEjmaR\n‌\nFOLLOW XBOX:\nFacebook: https://www.facebook.com/Xbox\nTwitter: https://www.twitter.com/Xbox\nInstagram: https://www.instagram.com/Xbox\n\nNotes on the Xbox Showcase for co-streamers and content creators: we at Xbox greatly appreciate any co-stream efforts and aim to ensure you have a smooth experience if you choose to do so. However, due to forces beyond our control, we cannot guarantee that glitches or disruptions by bots and other automated software won’t interfere with your co-stream. For those planning to create post-show breakdowns of the Xbox Showcase in the form of Video on Demand (VOD) coverage, we recommend you do not use any audio containing copyrighted music to avoid any action by automated bots, and to also consult the terms of service for your service provider.\n\nContent Creator notes for the Starfield Direct: the Starfield Direct contains no licensed music tracks, and is co-streaming friendly! We invite you and your audiences across the galaxy to tune in for watch parties, and we can’t wait to see the Video-on-Demand content you create with the Starfield Direct footage afterwards, too."
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "VS-QsX_KnJYO8EdHExGlMu6LEII",
+            "id": "uRAoQOLUw-w",
+            "snippet": {
+                "publishedAt": "2023-06-12T17:00:36Z",
+                "channelId": "UCHTM9IknXs4ZHzwHqDjakoQ",
+                "title": "The Weeknd Made a TV Show. It's a Complete Disaster.",
+                "description": "Thank you to Liquid I.V. for sponsoring today’s video! Click here https://bit.ly/43ulCJz to get free shipping with your purchase of a Hydration Sample Pack!\n\nThe Idol directed by Euphoria's Sam Levinson starring pop phenom Abel \"The Weeknd\" Tesfaye and Lily-Rose Depp is now available on HBO and Max. I kind of wish it wasn't!\n\n0:00 - intro\n3:07 - over before it started\n8:36 - the idle\n32:17 - ♫ reviews are bleak, yeah ♫\n35:22 - conclusion",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uRAoQOLUw-w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uRAoQOLUw-w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uRAoQOLUw-w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/uRAoQOLUw-w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/uRAoQOLUw-w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "D'Angelo Wallace",
+                "tags": [
+                    "d'angelo wallace",
+                    "funny",
+                    "commentary",
+                    "comedy",
+                    "satire"
+                ],
+                "categoryId": "23",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "The Weeknd Made a TV Show. It's a Complete Disaster.",
+                    "description": "Thank you to Liquid I.V. for sponsoring today’s video! Click here https://bit.ly/43ulCJz to get free shipping with your purchase of a Hydration Sample Pack!\n\nThe Idol directed by Euphoria's Sam Levinson starring pop phenom Abel \"The Weeknd\" Tesfaye and Lily-Rose Depp is now available on HBO and Max. I kind of wish it wasn't!\n\n0:00 - intro\n3:07 - over before it started\n8:36 - the idle\n32:17 - ♫ reviews are bleak, yeah ♫\n35:22 - conclusion"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "bZ0jai-dcCZwTchvoxotciUW4iE",
+            "id": "48h57PspBec",
+            "snippet": {
+                "publishedAt": "2023-06-10T16:00:00Z",
+                "channelId": "UCX6OQ3DkcsbYNE6H8uQQuVA",
+                "title": "$1 vs $1,000,000,000 Yacht!",
+                "description": "Buy Feastables anywhere to get a secret MrBeast video: https://bit.ly/_feastables\n\n\nGo watch Pete Davidson's new show \"Bupkis\" now live on Peacock!\"\nhttps://youtu.be/2x6h2VJ_m-c\n\nCheck out the all new \"Icon of the Seas\" coming 2024: https://bit.ly/Icon_OfThe_Seas\n\nAlso, check out the ship Harmony of the Seas which is actually 18 floors, not 17! https://bit.ly/Harmony_OfThe_Seas\n\nNew Merch - https://shopmrbeast.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/48h57PspBec/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/48h57PspBec/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/48h57PspBec/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/48h57PspBec/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/48h57PspBec/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MrBeast",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "$1 vs $1,000,000,000 Yacht!",
+                    "description": "Buy Feastables anywhere to get a secret MrBeast video: https://bit.ly/_feastables\n\n\nGo watch Pete Davidson's new show \"Bupkis\" now live on Peacock!\"\nhttps://youtu.be/2x6h2VJ_m-c\n\nCheck out the all new \"Icon of the Seas\" coming 2024: https://bit.ly/Icon_OfThe_Seas\n\nAlso, check out the ship Harmony of the Seas which is actually 18 floors, not 17! https://bit.ly/Harmony_OfThe_Seas\n\nNew Merch - https://shopmrbeast.com/\n\nSUBSCRIBE OR I TAKE YOUR DOG\n╔═╦╗╔╦╗╔═╦═╦╦╦╦╗╔═╗\n║╚╣║║║╚╣╚╣╔╣╔╣║╚╣═╣ \n╠╗║╚╝║║╠╗║╚╣║║║║║═╣\n╚═╩══╩═╩═╩═╩╝╚╩═╩═╝\n\n----------------------------------------------------------------\nfollow all of these or i will kick you\n• Facebook - https://www.facebook.com/MrBeast6000/\n• Twitter - https://twitter.com/MrBeast\n•  Instagram - https://www.instagram.com/mrbeast\n•  Im Hiring! - https://www.mrbeastjobs.com/\n--------------------------------------------------------------------"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ybkZCW_AYuyHApVesZI6cOAYk9w",
+            "id": "KuqN3tm5Za0",
+            "snippet": {
+                "publishedAt": "2023-06-13T11:38:21Z",
+                "channelId": "UC8kxEc1oZKpfhxvwKovXFMQ",
+                "title": "F-160 Raiju review! - GTA Online guides",
+                "description": "In this video I take a look at the F-160 Raiju stealth fighter jet in Grand theft auto 5 Online.\n\nIs it any good? well to find out I take a look at its speed and handling, the features it has such as the hover mode, the on board weapons as well as some of the customisations options!\n\nIf you enjoyed this video make sure to leave a like and subscribe if you're new to the Pyrerealm gaming channel for loads more videos coming to you very soon!\n\nMake sure to subscribe!\n\nCome check out our discord channel!\nhttps://discord.gg/prg",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/KuqN3tm5Za0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/KuqN3tm5Za0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/KuqN3tm5Za0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/KuqN3tm5Za0/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/KuqN3tm5Za0/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Pyre realm gaming",
+                "tags": [
+                    "grand",
+                    "theft",
+                    "auto",
+                    "grand theft auto",
+                    "online",
+                    "grand theft auto online",
+                    "gta",
+                    "gtav",
+                    "gta5",
+                    "gta online",
+                    "guide",
+                    "guides",
+                    "how to",
+                    "raiju",
+                    "review",
+                    "gta raiju",
+                    "raiju gta",
+                    "raiju gta online",
+                    "gta online raiju",
+                    "comparion",
+                    "which is the best",
+                    "best fighter jet",
+                    "best jet",
+                    "best plane",
+                    "gta online best plane",
+                    "san",
+                    "andreas",
+                    "mercenaries",
+                    "dlc",
+                    "content update",
+                    "raiju review",
+                    "raiju vs",
+                    "vs",
+                    "vs raiju"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "F-160 Raiju review! - GTA Online guides",
+                    "description": "In this video I take a look at the F-160 Raiju stealth fighter jet in Grand theft auto 5 Online.\n\nIs it any good? well to find out I take a look at its speed and handling, the features it has such as the hover mode, the on board weapons as well as some of the customisations options!\n\nIf you enjoyed this video make sure to leave a like and subscribe if you're new to the Pyrerealm gaming channel for loads more videos coming to you very soon!\n\nMake sure to subscribe!\n\nCome check out our discord channel!\nhttps://discord.gg/prg"
+                },
+                "defaultAudioLanguage": "en-GB"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "nlfb_LnBf22huhCytHtQhbH9YHg",
+            "id": "lAuV1nrhvgw",
+            "snippet": {
+                "publishedAt": "2023-06-13T17:00:47Z",
+                "channelId": "UCjB_adDAIxOL8GA4Y4OCt8g",
+                "title": "WE ARE MARRIED!",
+                "description": "Were you surprised to see we did it?\n\n⭐ SEND ME YOUR VIDEO IDEAS: https://bit.ly/MM7Games-Video-Ideas\n\n➖ Follow me ➖\n🎮 Twitch: https://www.twitch.tv/miniminter\n📷 Instagram: https://www.instagram.com/miniminter\n🐦 Twitter: https://twitter.com/miniminter\n🎬 Main Channel: https://www.youtube.com/miniminter\n\n💙 Become A Member: https://www.youtube.com/user/MM7Games/join\n\n👕 Sidemen Clothing:  https://www.sidemenclothing.com\n\n➖ Sidemen Channels ➖\n• Josh: https://goo.gl/VgeDWX\n• Tobi: https://goo.gl/MqGC4K\n• JJ: https://goo.gl/dxn9YW\n• Vik: https://goo.gl/9xLpVD\n• Ethan: https://goo.gl/5GBDTg\n• Harry: https://goo.gl/nJHyMA\n\n➖ My Equipment ➖\nMy PC: http://bit.ly/miniminter\nHow I record my gameplay: http://e.lga.to/mm\n\nVideo uploaded by\nSimon/Miniminter/mm7games",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lAuV1nrhvgw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lAuV1nrhvgw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lAuV1nrhvgw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lAuV1nrhvgw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lAuV1nrhvgw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MM7Games",
+                "tags": [
+                    "miniminter",
+                    "mm7games",
+                    "simon",
+                    "random",
+                    "sidemen"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "WE ARE MARRIED!",
+                    "description": "Were you surprised to see we did it?\n\n⭐ SEND ME YOUR VIDEO IDEAS: https://bit.ly/MM7Games-Video-Ideas\n\n➖ Follow me ➖\n🎮 Twitch: https://www.twitch.tv/miniminter\n📷 Instagram: https://www.instagram.com/miniminter\n🐦 Twitter: https://twitter.com/miniminter\n🎬 Main Channel: https://www.youtube.com/miniminter\n\n💙 Become A Member: https://www.youtube.com/user/MM7Games/join\n\n👕 Sidemen Clothing:  https://www.sidemenclothing.com\n\n➖ Sidemen Channels ➖\n• Josh: https://goo.gl/VgeDWX\n• Tobi: https://goo.gl/MqGC4K\n• JJ: https://goo.gl/dxn9YW\n• Vik: https://goo.gl/9xLpVD\n• Ethan: https://goo.gl/5GBDTg\n• Harry: https://goo.gl/nJHyMA\n\n➖ My Equipment ➖\nMy PC: http://bit.ly/miniminter\nHow I record my gameplay: http://e.lga.to/mm\n\nVideo uploaded by\nSimon/Miniminter/mm7games"
+                },
+                "defaultAudioLanguage": "en-GB"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "AU0gFwGGJVERWOnuj06rK8SkmUo",
+            "id": "mpdHLKgv6hc",
+            "snippet": {
+                "publishedAt": "2023-06-13T12:00:40Z",
+                "channelId": "UCwPlekBdyNPnNxLhkp9K--A",
+                "title": "AI's Hardest Minecraft Speedruns",
+                "description": "AI's Hardest Minecraft Speedruns\n\nThank you for watching! In this video I asked ChatGPT for 10 different speedrun challenges to complete, how hard can they get?\n\n『Extras』\n» Lunar Cosmetics https://store.lunarclient.com/category/minutetech\n» Twitter https://twitter.com/MinuteTech_\n» Twitch https://www.twitch.tv/xminutetech\n» NameMC https://namemc.com/profile/MinuteTech.1\n\n『Affiliates』\n» Server I Use https://billing.apexminecrafthosting.com/aff.php?aff=9292",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mpdHLKgv6hc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mpdHLKgv6hc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mpdHLKgv6hc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mpdHLKgv6hc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mpdHLKgv6hc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "MinuteTech",
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-US",
+                "localized": {
+                    "title": "AI's Hardest Minecraft Speedruns",
+                    "description": "AI's Hardest Minecraft Speedruns\n\nThank you for watching! In this video I asked ChatGPT for 10 different speedrun challenges to complete, how hard can they get?\n\n『Extras』\n» Lunar Cosmetics https://store.lunarclient.com/category/minutetech\n» Twitter https://twitter.com/MinuteTech_\n» Twitch https://www.twitch.tv/xminutetech\n» NameMC https://namemc.com/profile/MinuteTech.1\n\n『Affiliates』\n» Server I Use https://billing.apexminecrafthosting.com/aff.php?aff=9292"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "MxJ9XA4d9R-Z8fOYsyl0CEzMgjw",
+            "id": "NWvU-MncnJI",
+            "snippet": {
+                "publishedAt": "2023-06-13T14:00:11Z",
+                "channelId": "UCMb0O2CdPBNi-QqPk5T3gsQ",
+                "title": "Is The Future Of The AeroPress Clear?",
+                "description": "A few thoughts on the new AeroPress, both the brewer and the company. For more information:\nThe AeroPress Clear: https://aeropress.com/products/aeropress-clear\n\nRelevant Videos:\nAeroPress Episode #1 (History): https://www.youtube.com/watch?v=aidvrssMSGo\nAeroPress Episode #2 (Testing): https://www.youtube.com/watch?v=jBXm8fCWdo8\nAeroPress Episode #3 (The Ultimate Technique): https://www.youtube.com/watch?v=j6VlT_jUVPc\n\nLinks:\nPatreon: https://www.patreon.com/jameshoffmann\nLimited Edition Merch: https://geni.us/TensHundredsThousands\n\nMy Books:\nHow to Make The Best Coffee At Home: https://geni.us/howtomakethebestcoffee\nThe World Atlas of Coffee: http://geni.us/atlasofcoffee\nThe World Atlas of Coffee Audiobook: https://bit.ly/worldatlasofcoffeeaudio\nThe Best of Jimseven: https://geni.us/bestofjimseven\n\nFind me here:\nInstagram: https://www.instagram.com/jimseven\nTwitter: https://www.twitter.com/jimseven\n\nThings I use and like:\nMy video kit*: https://kit.co/jimseven/video-making-gear\nMy current studio coffee kit*: https://kit.co/jimseven/studio-coffee-kit\nThe kitchen set shelving is by Studio Hausen*: https://bit.ly/studiohausen (they gave me a 10% discount code to share with you which is RGNNV1D)\nMy glasses: http://bit.ly/boldlondon\nMy hair product of choice: https://geni.us/forthehair\n*Affiliate links",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/NWvU-MncnJI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/NWvU-MncnJI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/NWvU-MncnJI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/NWvU-MncnJI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/NWvU-MncnJI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "James Hoffmann",
+                "tags": [
+                    "james hoffmann",
+                    "james hoffman",
+                    "jimseven",
+                    "coffee"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en-GB",
+                "localized": {
+                    "title": "Is The Future Of The AeroPress Clear?",
+                    "description": "A few thoughts on the new AeroPress, both the brewer and the company. For more information:\nThe AeroPress Clear: https://aeropress.com/products/aeropress-clear\n\nRelevant Videos:\nAeroPress Episode #1 (History): https://www.youtube.com/watch?v=aidvrssMSGo\nAeroPress Episode #2 (Testing): https://www.youtube.com/watch?v=jBXm8fCWdo8\nAeroPress Episode #3 (The Ultimate Technique): https://www.youtube.com/watch?v=j6VlT_jUVPc\n\nLinks:\nPatreon: https://www.patreon.com/jameshoffmann\nLimited Edition Merch: https://geni.us/TensHundredsThousands\n\nMy Books:\nHow to Make The Best Coffee At Home: https://geni.us/howtomakethebestcoffee\nThe World Atlas of Coffee: http://geni.us/atlasofcoffee\nThe World Atlas of Coffee Audiobook: https://bit.ly/worldatlasofcoffeeaudio\nThe Best of Jimseven: https://geni.us/bestofjimseven\n\nFind me here:\nInstagram: https://www.instagram.com/jimseven\nTwitter: https://www.twitter.com/jimseven\n\nThings I use and like:\nMy video kit*: https://kit.co/jimseven/video-making-gear\nMy current studio coffee kit*: https://kit.co/jimseven/studio-coffee-kit\nThe kitchen set shelving is by Studio Hausen*: https://bit.ly/studiohausen (they gave me a 10% discount code to share with you which is RGNNV1D)\nMy glasses: http://bit.ly/boldlondon\nMy hair product of choice: https://geni.us/forthehair\n*Affiliate links"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "m0wgqE1wszUt6is9bv5u76mIBXg",
+            "id": "ysXIcTYWi-w",
+            "snippet": {
+                "publishedAt": "2023-06-12T20:45:42Z",
+                "channelId": "UCWsDFcIhY2DBi3GB5uykGXA",
+                "title": "irl Graduation Stream🎓",
+                "description": "MERCH HOODIE - https://www.ishowspeedstore.com/\n\nPO BOX - 24466 CINCINNATI OH, 45224 ZIPCODE \nsnapchat: darrenwatkins1 \ntwitter:IShowSpeed\nPSN: Yt-IShowSpeed\nCASHAPP: IShowSpeed\nPAYPAL: darrenwatkins915\nBECOME A MEMBER RIGHT NOW TO ACSESS PERKS ! (SPEED FAMILY) https://www.youtube.com/channel/UCWsDFcIhY2DBi3GB5uykGXA/join\nTWITCH BTW: https://www.twitch.tv/ishowspeed \nsecond channel - https://youtube.com/channel/UC2bW_AY9BlbYLGJSXAbjS4Q\nDesigner - https://twitter.com/nfdragon52?s=21\nDISCORD - https://discord.com/invite/ishowspeed\ni'm just entertaining y'all don't take it personal",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ysXIcTYWi-w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ysXIcTYWi-w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ysXIcTYWi-w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ysXIcTYWi-w/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ysXIcTYWi-w/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "IShowSpeed",
+                "tags": [
+                    "ishowspeed"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "irl Graduation Stream🎓",
+                    "description": "MERCH HOODIE - https://www.ishowspeedstore.com/\n\nPO BOX - 24466 CINCINNATI OH, 45224 ZIPCODE \nsnapchat: darrenwatkins1 \ntwitter:IShowSpeed\nPSN: Yt-IShowSpeed\nCASHAPP: IShowSpeed\nPAYPAL: darrenwatkins915\nBECOME A MEMBER RIGHT NOW TO ACSESS PERKS ! (SPEED FAMILY) https://www.youtube.com/channel/UCWsDFcIhY2DBi3GB5uykGXA/join\nTWITCH BTW: https://www.twitch.tv/ishowspeed \nsecond channel - https://youtube.com/channel/UC2bW_AY9BlbYLGJSXAbjS4Q\nDesigner - https://twitter.com/nfdragon52?s=21\nDISCORD - https://discord.com/invite/ishowspeed\ni'm just entertaining y'all don't take it personal"
+                }
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "ufW0JG59HurR6nEdAx8NUUsYo_I",
+            "id": "CVsGOXHRNuQ",
+            "snippet": {
+                "publishedAt": "2023-06-12T19:08:03Z",
+                "channelId": "UC0biFgrMdkv1hFAFLVePODQ",
+                "title": "Marcia Marcia Marcia Tries MAKEUP (First Time)!",
+                "description": "Trixie puts Marcia Marcia Marcia (@MarciaX3NYC) into her iconic drag look, to give her a taste of what wearing makeup feels like!\n\nSubscribe: https://bit.ly/subtrixie | Make sure to enable ALL push notifications! \nWatch the latest videos: https://www.youtube.com/playlist?list=PLTuL34VKrA9FXhBiF07oO8qxzkz60vmma\n\nGet 10% OFF  Trixie Cosmetics (exclusions apply)  when you sign up for texts: https://trixiecosmetics.attn.tv/p/tEE/landing-page\n\nExecutive Producer: Trixie Mattel\nProducer: Brandon Lim\nEditor: Nick Walker\nPost Supervisor: Jess Stevens\n\nWatch More Trixie Mattel:\nThe Bald and the Beautiful: https://youtube.com/watch?v=j7pCnjaqoIc&list=PLTuL34VKrA9ErMKGYNoe-AsRYV4qM_ocW&playnext=1 \nTrixie Cosmetics: https://youtube.com/watch?v=HADQ0ruMwTg&list=PLTuL34VKrA9ExeW7krkM23IavETPzthKa&playnext=1 \nMusic Videos: https://youtube.com/watch?v=cmQ_1Fc9X8E&list=PLTuL34VKrA9FFhWpicBVUbHf507gwx8as&playnext=1 \nMost Popular: https://www.youtube.com/playlist?list=PLTuL34VKrA9H974mTLUXfaUEdu47Lwoh8\n\nFollow Trixie Mattel: \nInstagram: https://instagram.com/trixiemattel​​​​​ \nTwitter: https://twitter.com/trixiemattel​​​​​ \nFacebook: https://facebook.com/trixiemattelfanpage  \nTikTok: https://tiktok.com/@trixiemattel​​​​​ \n\nFollow Trixie Cosmetics: \nInstagram: https://instagram.com/trixiecosmetics... \nTwitter : https://twitter.com/TrixieCosmetics​​​​​ \nTikTok: https://tiktok.com/@trixiecosmetics​​​​​\n\nAbout Trixie Mattel: \nYour favorite world famous drag queen with a passion for makeup artistry, the absolute Legend, Icon, and Star Trixie Mattel! Ages 3 and Up, Accessories Sold Separately, Batteries Not Included\n\n#TrixieMattel #Drag #Makeover",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CVsGOXHRNuQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CVsGOXHRNuQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CVsGOXHRNuQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/CVsGOXHRNuQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/CVsGOXHRNuQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Trixie Mattel",
+                "tags": [
+                    "Trixie Mattel",
+                    "Trixie Mattel Youtube",
+                    "Trixie and Katya",
+                    "Trixie",
+                    "Trixie Mattel makeup",
+                    "Trixie mattel music",
+                    "Trixie Cosmetics",
+                    "Bald and the Beautiful",
+                    "drag",
+                    "queen",
+                    "drag queen"
+                ],
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "Marcia Marcia Marcia Tries MAKEUP (First Time)!",
+                    "description": "Trixie puts Marcia Marcia Marcia (@MarciaX3NYC) into her iconic drag look, to give her a taste of what wearing makeup feels like!\n\nSubscribe: https://bit.ly/subtrixie | Make sure to enable ALL push notifications! \nWatch the latest videos: https://www.youtube.com/playlist?list=PLTuL34VKrA9FXhBiF07oO8qxzkz60vmma\n\nGet 10% OFF  Trixie Cosmetics (exclusions apply)  when you sign up for texts: https://trixiecosmetics.attn.tv/p/tEE/landing-page\n\nExecutive Producer: Trixie Mattel\nProducer: Brandon Lim\nEditor: Nick Walker\nPost Supervisor: Jess Stevens\n\nWatch More Trixie Mattel:\nThe Bald and the Beautiful: https://youtube.com/watch?v=j7pCnjaqoIc&list=PLTuL34VKrA9ErMKGYNoe-AsRYV4qM_ocW&playnext=1 \nTrixie Cosmetics: https://youtube.com/watch?v=HADQ0ruMwTg&list=PLTuL34VKrA9ExeW7krkM23IavETPzthKa&playnext=1 \nMusic Videos: https://youtube.com/watch?v=cmQ_1Fc9X8E&list=PLTuL34VKrA9FFhWpicBVUbHf507gwx8as&playnext=1 \nMost Popular: https://www.youtube.com/playlist?list=PLTuL34VKrA9H974mTLUXfaUEdu47Lwoh8\n\nFollow Trixie Mattel: \nInstagram: https://instagram.com/trixiemattel​​​​​ \nTwitter: https://twitter.com/trixiemattel​​​​​ \nFacebook: https://facebook.com/trixiemattelfanpage  \nTikTok: https://tiktok.com/@trixiemattel​​​​​ \n\nFollow Trixie Cosmetics: \nInstagram: https://instagram.com/trixiecosmetics... \nTwitter : https://twitter.com/TrixieCosmetics​​​​​ \nTikTok: https://tiktok.com/@trixiecosmetics​​​​​\n\nAbout Trixie Mattel: \nYour favorite world famous drag queen with a passion for makeup artistry, the absolute Legend, Icon, and Star Trixie Mattel! Ages 3 and Up, Accessories Sold Separately, Batteries Not Included\n\n#TrixieMattel #Drag #Makeover"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "zN0qvXkyzOP1p3wthRRa8TD8WPc",
+            "id": "oN1jK8-Wh60",
+            "snippet": {
+                "publishedAt": "2023-06-13T16:00:38Z",
+                "channelId": "UCd-9pZ4Vcmsjw5TsPKWrigw",
+                "title": "Tide Of Shadows | Event Official Trailer | Hunt: Showdown",
+                "description": "The deadliest Hunt event yet: Tide of Shadows - Coming Soon!\n\nA black tide has risen. The water teems with darkness, a death and corruption so foul some say it has eaten the sun.\n\nWill you forge new pacts? Will you fight for the bayou’s soul?\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nGet Hunt Showdown on Steam: https://tinyurl.com/HuntSteamYouTube\n\nVisit our website for more information and updates: https://www.huntshowdown.com\n\nTwitter: https://www.twitter.com/huntshowdown\nFacebook: https://www.facebook.com/huntshowdown\nTwitch: https://www.twitch.tv/crytek\nTikTok: https://www.tiktok.com/@huntshowdownofficial\nDiscord: https://discord.com/invite/huntshowdown\n\n#HuntShowdown #Tideofshadows  #Trailer",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oN1jK8-Wh60/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oN1jK8-Wh60/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oN1jK8-Wh60/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oN1jK8-Wh60/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oN1jK8-Wh60/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Hunt: Showdown",
+                "tags": [
+                    "event",
+                    "hunt",
+                    "hunt showdown",
+                    "crytek",
+                    "cryengine",
+                    "trailer",
+                    "tide of shadows",
+                    "tideofshadows",
+                    "hunter"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Tide Of Shadows | Event Official Trailer | Hunt: Showdown",
+                    "description": "The deadliest Hunt event yet: Tide of Shadows - Coming Soon!\n\nA black tide has risen. The water teems with darkness, a death and corruption so foul some say it has eaten the sun.\n\nWill you forge new pacts? Will you fight for the bayou’s soul?\n\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nGet Hunt Showdown on Steam: https://tinyurl.com/HuntSteamYouTube\n\nVisit our website for more information and updates: https://www.huntshowdown.com\n\nTwitter: https://www.twitter.com/huntshowdown\nFacebook: https://www.facebook.com/huntshowdown\nTwitch: https://www.twitch.tv/crytek\nTikTok: https://www.tiktok.com/@huntshowdownofficial\nDiscord: https://discord.com/invite/huntshowdown\n\n#HuntShowdown #Tideofshadows  #Trailer"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "7Tajr6_J3IYomrPc7qRjfx6FTfg",
+            "id": "1GGam7tHwts",
+            "snippet": {
+                "publishedAt": "2023-06-12T17:55:11Z",
+                "channelId": "UClOf1XXinvZsy4wKPAkro2A",
+                "title": "Season 5 Trailer | Overwatch 2",
+                "description": "#Overwatch2 Season 5 launches June 13! \n\nEmbark on a mythic adventure to defeat the Demon Lord through a reimagined Battle Pass, experience Mythic Skin Progression as you unlock all three stages of Mythic Adventurer Tracer, and earn rewards in brand new ways with Questwatch! \n\nA new prop hunt game mode like never before in Mischief and Magic. \n\nHave some fun in the sun with the return of the Summer Games.\n\nEnjoy quality-of-life updates like the return of the On Fire system.\n\nOverwatch 2 is free to play for everyone on console & PC!\n–\nFollow #Overwatch2 for the latest news:\nInstagram: https://www.instagram.com/playoverwatch \nTikTok: https://www.tiktok.com/@overwatch \nTwitter: http://www.twitter.com/playoverwatch  \nFacebook: http://www.facebook.com/playoverwatch",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1GGam7tHwts/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1GGam7tHwts/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1GGam7tHwts/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1GGam7tHwts/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1GGam7tHwts/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "PlayOverwatch",
+                "tags": [
+                    "Overwatch 2",
+                    "Overwatch",
+                    "Tracer",
+                    "Mythic Skin",
+                    "Season 5"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Season 5 Trailer | Overwatch 2",
+                    "description": "#Overwatch2 Season 5 launches June 13! \n\nEmbark on a mythic adventure to defeat the Demon Lord through a reimagined Battle Pass, experience Mythic Skin Progression as you unlock all three stages of Mythic Adventurer Tracer, and earn rewards in brand new ways with Questwatch! \n\nA new prop hunt game mode like never before in Mischief and Magic. \n\nHave some fun in the sun with the return of the Summer Games.\n\nEnjoy quality-of-life updates like the return of the On Fire system.\n\nOverwatch 2 is free to play for everyone on console & PC!\n–\nFollow #Overwatch2 for the latest news:\nInstagram: https://www.instagram.com/playoverwatch \nTikTok: https://www.tiktok.com/@overwatch \nTwitter: http://www.twitter.com/playoverwatch  \nFacebook: http://www.facebook.com/playoverwatch"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "apcyOm8qvprVzto-H_NLuYdk9DU",
+            "id": "0ZWcFWPYxtk",
+            "snippet": {
+                "publishedAt": "2023-06-12T09:14:16Z",
+                "channelId": "UCD1Em4q90ZUK2R5HKesszJg",
+                "title": "TWO New Troops are HERE in the June Update! Clash of Clans Official",
+                "description": "The June 2023 Update is here and we've introduced two brand new units to Clash of Clans: Super Hog Rider and Apprentice Warden. But that's not all! We've also got new levels, cost reductions, and a bunch of new Quality of Life improvements in this update. Make sure you check them out in the video and in the notes below.\n\nFor the full patch notes please visit: https://www.reddit.com/r/ClashOfClans/comments/146s1na/june_2023_update_sneak_peek_3_apprentice_warden/\n\nFollow us on our Socials!\nTwitter ► https://twitter.com/ClashofClans/\nInstagram ► https://www.instagram.com/clashofclans \nFacebook ► https://www.facebook.com/ClashofClans \nTikTok ► https://www.tiktok.com/@clashofclans\n\nAttack. Defend. Strategize. Download for free for mobile devices. \nhttp://supr.cl/ThisArmy\n\nFrom rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend off raiders, battle against millions of players worldwide, and forge a powerful clan with others to destroy enemy clans.\nPLEASE NOTE! Clash of Clans is free to download and play, however some game items can also be purchased for real money \n\nAlso, under our Terms of Service and Privacy Policy, you must be at least 13 years of age to play or download Clash of Clans.\nA network connection is also required.\n\nFEATURES\n- Build your village into an unbeatable fortress \n- Raise your own army of Barbarians, Archers, Hog Riders, Wizards, Dragons and other mighty fighters\n- Battle with players worldwide and take their Trophies\n- Join together with other players to form the ultimate Clan\n- Fight against rival Clans in epic Clan Wars \n- Build 18 unique units with multiple levels of upgrades\n- Discover your favorite attacking army from countless combinations of troops, spells, Heroes and Clan reinforcements \n- Defend your village with a multitude of Cannons, Towers, Mortars, Bombs, Traps and Walls\n- Fight against the Goblin King in a campaign through the realm\n\nChief, are you having problems? Visit https://help.supercellsupport.com/clash-of-clans/en/\n\nPrivacy Policy:\nhttps://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttps://supercell.com/en/terms-of-service/\n\nParent’s Guide:\nhttps://supercell.com/en/parents/\n\n#clashofclans #newupdate #apprenticewarden #superhogrider #th15 #devupdate",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0ZWcFWPYxtk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0ZWcFWPYxtk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0ZWcFWPYxtk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0ZWcFWPYxtk/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0ZWcFWPYxtk/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Clash of Clans",
+                "tags": [
+                    "clash of clans",
+                    "COC",
+                    "Clash of Clans Gameplay",
+                    "Clash of Clans Strategy",
+                    "Clash of Clans Animation",
+                    "Clash of Clans Commercial",
+                    "Clash of Clans Attacks",
+                    "Clash of Clans Town Hall",
+                    "Hog Rider",
+                    "PEKKA",
+                    "Clan Wars",
+                    "season challenges",
+                    "clan war leagues",
+                    "clash on",
+                    "clan game",
+                    "clan games",
+                    "clash-a-rama",
+                    "clasharama",
+                    "yt:cc=on",
+                    "clash of clans new update",
+                    "coc new update",
+                    "clash of clans june update",
+                    "coc june update"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "defaultLanguage": "en",
+                "localized": {
+                    "title": "TWO New Troops are HERE in the June Update! Clash of Clans Official",
+                    "description": "The June 2023 Update is here and we've introduced two brand new units to Clash of Clans: Super Hog Rider and Apprentice Warden. But that's not all! We've also got new levels, cost reductions, and a bunch of new Quality of Life improvements in this update. Make sure you check them out in the video and in the notes below.\n\nFor the full patch notes please visit: https://www.reddit.com/r/ClashOfClans/comments/146s1na/june_2023_update_sneak_peek_3_apprentice_warden/\n\nFollow us on our Socials!\nTwitter ► https://twitter.com/ClashofClans/\nInstagram ► https://www.instagram.com/clashofclans \nFacebook ► https://www.facebook.com/ClashofClans \nTikTok ► https://www.tiktok.com/@clashofclans\n\nAttack. Defend. Strategize. Download for free for mobile devices. \nhttp://supr.cl/ThisArmy\n\nFrom rage-­filled Barbarians with glorious mustaches to pyromaniac wizards, raise your own army and lead your clan to victory! Build your village to fend off raiders, battle against millions of players worldwide, and forge a powerful clan with others to destroy enemy clans.\nPLEASE NOTE! Clash of Clans is free to download and play, however some game items can also be purchased for real money \n\nAlso, under our Terms of Service and Privacy Policy, you must be at least 13 years of age to play or download Clash of Clans.\nA network connection is also required.\n\nFEATURES\n- Build your village into an unbeatable fortress \n- Raise your own army of Barbarians, Archers, Hog Riders, Wizards, Dragons and other mighty fighters\n- Battle with players worldwide and take their Trophies\n- Join together with other players to form the ultimate Clan\n- Fight against rival Clans in epic Clan Wars \n- Build 18 unique units with multiple levels of upgrades\n- Discover your favorite attacking army from countless combinations of troops, spells, Heroes and Clan reinforcements \n- Defend your village with a multitude of Cannons, Towers, Mortars, Bombs, Traps and Walls\n- Fight against the Goblin King in a campaign through the realm\n\nChief, are you having problems? Visit https://help.supercellsupport.com/clash-of-clans/en/\n\nPrivacy Policy:\nhttps://supercell.com/en/privacy-policy/\n\nTerms of Service:\nhttps://supercell.com/en/terms-of-service/\n\nParent’s Guide:\nhttps://supercell.com/en/parents/\n\n#clashofclans #newupdate #apprenticewarden #superhogrider #th15 #devupdate"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "EJd1Umja7DSwkSkAH503Y1vKnww",
+            "id": "-huTyGYh5ao",
+            "snippet": {
+                "publishedAt": "2023-06-13T16:00:00Z",
+                "channelId": "UCHdMK5Ef2El8KbD3L_WgANg",
+                "title": "You Must Be A PRO To HOLE IN ONE! (Golf It)",
+                "description": "⭐️ You Must Be A PRO To HOLE IN ONE!\n🎉 NEW MERCH - https://slogo.com\n😎 DISCORD - https://discord.gg/slogo\n\n👬 MY FRIENDS!\nJELLY - https://youtu.be/LHAnmQlFeKg\n\n👉 MORE VIDEOS!\nReactions: https://www.youtube.com/watch?v=DJopyTYvxYI\nMinecraft: https://www.youtube.com/watch?v=LsmTZdIJjrE&list=PLiqeco49X7ENP8st2WdrFym_SP5xIXfSb&index=93\nChallenges: https://www.youtube.com/watch?v=DGBX-3uOF94\n\n🙈 If you enjoyed the video, you should probably go watch some more!\n\n✔️ This video is kid friendly / family friendly!\n\n#Gaming #golfit",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-huTyGYh5ao/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-huTyGYh5ao/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-huTyGYh5ao/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/-huTyGYh5ao/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/-huTyGYh5ao/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Slogo",
+                "tags": [
+                    "slogoman",
+                    "gaming",
+                    "slogo",
+                    "You Must Be A PRO To HOLE IN ONE!",
+                    "golf it",
+                    "golf with friends",
+                    "hole in one challenge",
+                    "hole in one",
+                    "pro golf",
+                    "jelly"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "You Must Be A PRO To HOLE IN ONE! (Golf It)",
+                    "description": "⭐️ You Must Be A PRO To HOLE IN ONE!\n🎉 NEW MERCH - https://slogo.com\n😎 DISCORD - https://discord.gg/slogo\n\n👬 MY FRIENDS!\nJELLY - https://youtu.be/LHAnmQlFeKg\n\n👉 MORE VIDEOS!\nReactions: https://www.youtube.com/watch?v=DJopyTYvxYI\nMinecraft: https://www.youtube.com/watch?v=LsmTZdIJjrE&list=PLiqeco49X7ENP8st2WdrFym_SP5xIXfSb&index=93\nChallenges: https://www.youtube.com/watch?v=DGBX-3uOF94\n\n🙈 If you enjoyed the video, you should probably go watch some more!\n\n✔️ This video is kid friendly / family friendly!\n\n#Gaming #golfit"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "P0hQOnljifasb1e28fu7GtbR9aI",
+            "id": "gd59Hj6gwag",
+            "snippet": {
+                "publishedAt": "2023-06-13T09:54:23Z",
+                "channelId": "UCD9qy7cc3bb5rrMjJ9tRTTA",
+                "title": "GTA 5 - UPDATED Avenger Customization & DLC Intro! | San Andreas Mercenaries Update",
+                "description": "Mammoth Avenger\nBase Price - $4,787,500 (Trade Price: $3,450,000)\nClass - Planes\nPrimarily Based On - V-22 Osprey\nUpdated Customization - San Andreas Mercenaries Update on June 13th, 2023\n\n\nMy Gaming Setup:\nKeyboard: https://amzn.to/3wIfPkG \nMouse: https://amzn.to/3Y4NBMK\nRGB Mouse/Keyboard Pad: https://amzn.to/3l2bK8f \nGaming Glasses: https://amzn.to/3Rkd8PP \nHeadset: https://amzn.to/3HlQ5iV \nMicrophone: https://amzn.to/3RkAftF \nMicrophone Stand: https://amzn.to/3jlJ3Tn \nMain Monitor: https://amzn.to/40kFC04 \nSecondary Monitors: https://amzn.to/40baWOy \nTriple Monitor Stand: https://amzn.to/3RmkClf \nE-WIN Gaming Chair: (Discount Code: DCA) https://bit.ly/2mlTBnJ\nMy PC Build:\nCase: https://amzn.to/3Rn9kgA\nMotherboard: https://amzn.to/3WRVkwz \nCPU: https://amzn.to/3JwdvVr \nGPU: https://amzn.to/40dEueF \nRAM (x2): https://amzn.to/3JwdrFb \nCPU Cooler: https://amzn.to/40kH1DS \nRGB Fans (120mm): https://amzn.to/40h6u0N\nRGB Fans (140mm): https://amzn.to/3DzlKMN\nPower Supply: https://amzn.to/3JxOYQ8 \nSSD (M.2): https://amzn.to/3Rlek5m \nSSD: https://amzn.to/3Hohhh1 \nCableMods: https://amzn.to/3HMcOGk \nCapture Card: https://amzn.to/3XSIGyL \n(Disclaimer - As an Amazon Associate I earn from qualifying purchases.)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gd59Hj6gwag/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gd59Hj6gwag/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gd59Hj6gwag/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gd59Hj6gwag/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gd59Hj6gwag/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Digital Car Addict",
+                "tags": [
+                    "Grand Theft Auto V",
+                    "GTA Online",
+                    "GTA San Andreas Mercenaries DLC",
+                    "GTA San Andreas Mercenaries Update",
+                    "GTA 5 2023 Summer Update",
+                    "GTA 5 San Andreas Mercenaries DLC",
+                    "GTA 5 San Andreas Mercenaries Update",
+                    "GTA Trilogy Definitive Edition",
+                    "Epic Games GTA 5",
+                    "GTA San Andreas Online",
+                    "Prime Gaming GTA",
+                    "GTA 5",
+                    "gta v",
+                    "gta san andreas",
+                    "gta 6",
+                    "gta 5 online",
+                    "gta updated avenger customization",
+                    "gta new avenger customization"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "GTA 5 - UPDATED Avenger Customization & DLC Intro! | San Andreas Mercenaries Update",
+                    "description": "Mammoth Avenger\nBase Price - $4,787,500 (Trade Price: $3,450,000)\nClass - Planes\nPrimarily Based On - V-22 Osprey\nUpdated Customization - San Andreas Mercenaries Update on June 13th, 2023\n\n\nMy Gaming Setup:\nKeyboard: https://amzn.to/3wIfPkG \nMouse: https://amzn.to/3Y4NBMK\nRGB Mouse/Keyboard Pad: https://amzn.to/3l2bK8f \nGaming Glasses: https://amzn.to/3Rkd8PP \nHeadset: https://amzn.to/3HlQ5iV \nMicrophone: https://amzn.to/3RkAftF \nMicrophone Stand: https://amzn.to/3jlJ3Tn \nMain Monitor: https://amzn.to/40kFC04 \nSecondary Monitors: https://amzn.to/40baWOy \nTriple Monitor Stand: https://amzn.to/3RmkClf \nE-WIN Gaming Chair: (Discount Code: DCA) https://bit.ly/2mlTBnJ\nMy PC Build:\nCase: https://amzn.to/3Rn9kgA\nMotherboard: https://amzn.to/3WRVkwz \nCPU: https://amzn.to/3JwdvVr \nGPU: https://amzn.to/40dEueF \nRAM (x2): https://amzn.to/3JwdrFb \nCPU Cooler: https://amzn.to/40kH1DS \nRGB Fans (120mm): https://amzn.to/40h6u0N\nRGB Fans (140mm): https://amzn.to/3DzlKMN\nPower Supply: https://amzn.to/3JxOYQ8 \nSSD (M.2): https://amzn.to/3Rlek5m \nSSD: https://amzn.to/3Hohhh1 \nCableMods: https://amzn.to/3HMcOGk \nCapture Card: https://amzn.to/3XSIGyL \n(Disclaimer - As an Amazon Associate I earn from qualifying purchases.)"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "4s3SQ9W59W4TGes3mQvpPat2HR0",
+            "id": "5emJgNiFbAA",
+            "snippet": {
+                "publishedAt": "2023-06-12T16:00:13Z",
+                "channelId": "UC_IRYSp4auq7hKLvziWVH6w",
+                "title": "Carl’s Date | Official Trailer",
+                "description": "Oh boy, oh boy….here’s a special treat 🐾🐶 \n\nWatch the all-new short film, Disney and Pixar’s Carl’s Date, only in theaters with #Elemental THIS FRIDAY!\n\nCheck out a brand-new trailer celebrating Pixar Animation Studios’ “Carl’s Date.” Opening exclusively in theaters June 16 in front of Disney and Pixar’s “Elemental,” the all-new short marks a return to the studio’s tradition of pairing its feature films with animated shorts on the big screen. Written and directed by Academy Award® nominee and Emmy® Award winner Bob Peterson and produced by Kim Collins, “Carl’s Date” goes home with Carl Fredricksen (voice of Ed Asner) and his lovable talking dog, Dug (voice of Peterson), who were introduced in Pixar’s Oscar®-winning feature “Up.” Moviegoers will catch up with Carl as he reluctantly agrees to go on a date with a lady friend—but admittedly has no idea how dating works these days. Ever the helpful friend, Dug steps in to calm Carl’s pre-date jitters and offer some tried-and-true tips for making friends—if you’re a dog. \n\r\nPixar Instagram: https://www.instagram.com/pixar/\r\nPixar Twitter: https://twitter.com/pixar\r\nPixar Facebook: https://www.facebook.com/pixar\r\n \r\nCopyright: (C) Disney•Pixar",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/5emJgNiFbAA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/5emJgNiFbAA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/5emJgNiFbAA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/5emJgNiFbAA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/5emJgNiFbAA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Pixar",
+                "tags": [
+                    "Pixar",
+                    "Disney",
+                    "Disney Pixar",
+                    "Pixar Movie",
+                    "Animation"
+                ],
+                "categoryId": "1",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Carl’s Date | Official Trailer",
+                    "description": "Oh boy, oh boy….here’s a special treat 🐾🐶 \n\nWatch the all-new short film, Disney and Pixar’s Carl’s Date, only in theaters with #Elemental THIS FRIDAY!\n\nCheck out a brand-new trailer celebrating Pixar Animation Studios’ “Carl’s Date.” Opening exclusively in theaters June 16 in front of Disney and Pixar’s “Elemental,” the all-new short marks a return to the studio’s tradition of pairing its feature films with animated shorts on the big screen. Written and directed by Academy Award® nominee and Emmy® Award winner Bob Peterson and produced by Kim Collins, “Carl’s Date” goes home with Carl Fredricksen (voice of Ed Asner) and his lovable talking dog, Dug (voice of Peterson), who were introduced in Pixar’s Oscar®-winning feature “Up.” Moviegoers will catch up with Carl as he reluctantly agrees to go on a date with a lady friend—but admittedly has no idea how dating works these days. Ever the helpful friend, Dug steps in to calm Carl’s pre-date jitters and offer some tried-and-true tips for making friends—if you’re a dog. \n\r\nPixar Instagram: https://www.instagram.com/pixar/\r\nPixar Twitter: https://twitter.com/pixar\r\nPixar Facebook: https://www.facebook.com/pixar\r\n \r\nCopyright: (C) Disney•Pixar"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "iFhY6Yrm89kA6WvGJvrW6jZjp_I",
+            "id": "kbosDo4ZHQg",
+            "snippet": {
+                "publishedAt": "2023-06-13T00:18:00Z",
+                "channelId": "UCiGnwS3OVEuqbc78ELEFDeQ",
+                "title": "building a house in the sims but each room the time limit HALVES",
+                "description": "this house may have only taken us 30 minutes, but it also might have taken 30 YEARS off of our lives\n\nwe tried to build a house by spinning a random time limit, and then for each new room in this modern house the time gets cut in HALF\n\nGallery ID: CarynandConnie\nMods: Twisted Mexi's \"T.O.O.L Mod\" and \"Better BuildBuy\"\n\n\n--------------------------------------------------------------\nhey. you. yeah you. CHECK OUT OUR OTHER STUFF!\n• Twitch - https://www.twitch.tv/carynandconnie\n• Twitter - https://twitter.com/carynandconnie \n• Instagram - https://www.instagram.com/carynandcon...\n• TikTok - https://www.tiktok.com/@carynandconnie\n• Other YouTube Channel - https://www.youtube.com/c/CarynandConnie\n• LinkTree - linktr.ee/carynandconnie\n--------------------------------------------------------------\n\nBUSINESS INQUIRES: candc@night.co\n\nMUSIC\n\nWe Shop Song - Philip Milman\nMorning Stroll: Josh Kirsch/Media Right Productions",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kbosDo4ZHQg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kbosDo4ZHQg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kbosDo4ZHQg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/kbosDo4ZHQg/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/kbosDo4ZHQg/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "CarynandConnieGaming",
+                "tags": [
+                    "the sims",
+                    "ts4",
+                    "sims build challenge",
+                    "let’s build",
+                    "sims 4 challenge",
+                    "sims challenge",
+                    "sims 4",
+                    "carynandconnie",
+                    "Caryn and connie",
+                    "family friendly",
+                    "build challenge",
+                    "house building",
+                    "sims 4 build",
+                    "the sims 4",
+                    "how to build",
+                    "sims hacks",
+                    "sims tips",
+                    "sims tricks",
+                    "sims cheats",
+                    "speed build",
+                    "speedbuilding",
+                    "random room sims",
+                    "different room sims",
+                    "sims family home",
+                    "modern sims house",
+                    "modern home design",
+                    "time limit",
+                    "sims timed challenge",
+                    "time limit smaller",
+                    "shorter time limit",
+                    "challenge"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "building a house in the sims but each room the time limit HALVES",
+                    "description": "this house may have only taken us 30 minutes, but it also might have taken 30 YEARS off of our lives\n\nwe tried to build a house by spinning a random time limit, and then for each new room in this modern house the time gets cut in HALF\n\nGallery ID: CarynandConnie\nMods: Twisted Mexi's \"T.O.O.L Mod\" and \"Better BuildBuy\"\n\n\n--------------------------------------------------------------\nhey. you. yeah you. CHECK OUT OUR OTHER STUFF!\n• Twitch - https://www.twitch.tv/carynandconnie\n• Twitter - https://twitter.com/carynandconnie \n• Instagram - https://www.instagram.com/carynandcon...\n• TikTok - https://www.tiktok.com/@carynandconnie\n• Other YouTube Channel - https://www.youtube.com/c/CarynandConnie\n• LinkTree - linktr.ee/carynandconnie\n--------------------------------------------------------------\n\nBUSINESS INQUIRES: candc@night.co\n\nMUSIC\n\nWe Shop Song - Philip Milman\nMorning Stroll: Josh Kirsch/Media Right Productions"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "WFgxrvWJ8MrRGDPbKGb_ZloKk8w",
+            "id": "ucZZdf94LbI",
+            "snippet": {
+                "publishedAt": "2023-06-13T03:16:57Z",
+                "channelId": "UCWJ2lWNubArHWmf3FIHbfcQ",
+                "title": "#8 HEAT at #1 NUGGETS | FULL GAME 5 HIGHLIGHTS | June 12, 2023",
+                "description": "Never miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.\nDownload now: https://app.link.nba.com/APP22\n\nLed by Nikola Jokic’s 28 points (12-16 FG), 16 rebounds, and 4 assists, the Denver Nuggets defeated the Miami Heat in Game 5, 94-89. Michael Porter Jr. (16 points, 13 rebounds) and Jamal Murray (14 points, 8 rebounds, 8 assists) added a combined 30 points for the Nuggets in the victory, while Jimmy Butler tallied 21 points for the Heat. After closing out this best-of-seven series, 4-1, the Nuggets have clinched the franchise’s first NBA title.\n\nNikola Jokic (30.2 PPG, 14.0 RPG, 7.2 APG) has been named the 2023 NBA Finals MVP\n\nNikola Jokic is the 1st Center to win a Finals MVP award since Shaquille O’Neal (2002)\n\nNikola Jokic is the 1st second round draft pick to win a Finals MVP award since Dennis Johnson (1979)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ucZZdf94LbI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ucZZdf94LbI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ucZZdf94LbI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/ucZZdf94LbI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/ucZZdf94LbI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "NBA",
+                "tags": [
+                    "Basketball",
+                    "G League",
+                    "NBA",
+                    "game-0042200405"
+                ],
+                "categoryId": "17",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "#8 HEAT at #1 NUGGETS | FULL GAME 5 HIGHLIGHTS | June 12, 2023",
+                    "description": "Never miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.\nDownload now: https://app.link.nba.com/APP22\n\nLed by Nikola Jokic’s 28 points (12-16 FG), 16 rebounds, and 4 assists, the Denver Nuggets defeated the Miami Heat in Game 5, 94-89. Michael Porter Jr. (16 points, 13 rebounds) and Jamal Murray (14 points, 8 rebounds, 8 assists) added a combined 30 points for the Nuggets in the victory, while Jimmy Butler tallied 21 points for the Heat. After closing out this best-of-seven series, 4-1, the Nuggets have clinched the franchise’s first NBA title.\n\nNikola Jokic (30.2 PPG, 14.0 RPG, 7.2 APG) has been named the 2023 NBA Finals MVP\n\nNikola Jokic is the 1st Center to win a Finals MVP award since Shaquille O’Neal (2002)\n\nNikola Jokic is the 1st second round draft pick to win a Finals MVP award since Dennis Johnson (1979)"
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "eTegbMlh4dy2IhME_M0LDC6PC-I",
+            "id": "dq4HvVbs-sM",
+            "snippet": {
+                "publishedAt": "2023-06-13T10:33:59Z",
+                "channelId": "UCD9qy7cc3bb5rrMjJ9tRTTA",
+                "title": "GTA 5 - DLC Aircraft Customization - Mammoth F-160 Raiju Jet",
+                "description": "Mammoth F-160 Raiju\n\nBase Price - $6,855,000 (Trade Price - $5,141,240)\nClass - Planes\nPrimarily Based On - Lockheed Martin F-35 Lightning II & Northrop YF-23\nDLC Update - San Andreas Mercenaries Update\nRelease Date - June 13th, 2023\n\n\nMy Gaming Setup:\nKeyboard: https://amzn.to/3wIfPkG \nMouse: https://amzn.to/3Y4NBMK\nRGB Mouse/Keyboard Pad: https://amzn.to/3l2bK8f \nGaming Glasses: https://amzn.to/3Rkd8PP \nHeadset: https://amzn.to/3HlQ5iV \nMicrophone: https://amzn.to/3RkAftF \nMicrophone Stand: https://amzn.to/3jlJ3Tn \nMain Monitor: https://amzn.to/40kFC04 \nSecondary Monitors: https://amzn.to/40baWOy \nTriple Monitor Stand: https://amzn.to/3RmkClf \nE-WIN Gaming Chair: (Discount Code: DCA) https://bit.ly/2mlTBnJ\nMy PC Build:\nCase: https://amzn.to/3Rn9kgA\nMotherboard: https://amzn.to/3WRVkwz \nCPU: https://amzn.to/3JwdvVr \nGPU: https://amzn.to/40dEueF \nRAM (x2): https://amzn.to/3JwdrFb \nCPU Cooler: https://amzn.to/40kH1DS \nRGB Fans (120mm): https://amzn.to/40h6u0N\nRGB Fans (140mm): https://amzn.to/3DzlKMN\nPower Supply: https://amzn.to/3JxOYQ8 \nSSD (M.2): https://amzn.to/3Rlek5m \nSSD: https://amzn.to/3Hohhh1 \nCableMods: https://amzn.to/3HMcOGk \nCapture Card: https://amzn.to/3XSIGyL \n(Disclaimer - As an Amazon Associate I earn from qualifying purchases.)",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dq4HvVbs-sM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dq4HvVbs-sM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dq4HvVbs-sM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dq4HvVbs-sM/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dq4HvVbs-sM/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Digital Car Addict",
+                "tags": [
+                    "Grand Theft Auto V",
+                    "GTA Online",
+                    "GTA San Andreas Mercenaries DLC",
+                    "GTA San Andreas Mercenaries Update",
+                    "GTA 5 2023 Summer Update",
+                    "GTA 5 San Andreas Mercenaries DLC",
+                    "GTA 5 San Andreas Mercenaries Update",
+                    "GTA Trilogy Definitive Edition",
+                    "Epic Games GTA 5",
+                    "GTA San Andreas Online",
+                    "Prime Gaming GTA",
+                    "GTA 5",
+                    "gta v",
+                    "gta san andreas",
+                    "gta 6",
+                    "gta 5 online",
+                    "gta new jet customization",
+                    "gta new mercenaries update jet customization"
+                ],
+                "categoryId": "20",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "GTA 5 - DLC Aircraft Customization - Mammoth F-160 Raiju Jet",
+                    "description": "Mammoth F-160 Raiju\n\nBase Price - $6,855,000 (Trade Price - $5,141,240)\nClass - Planes\nPrimarily Based On - Lockheed Martin F-35 Lightning II & Northrop YF-23\nDLC Update - San Andreas Mercenaries Update\nRelease Date - June 13th, 2023\n\n\nMy Gaming Setup:\nKeyboard: https://amzn.to/3wIfPkG \nMouse: https://amzn.to/3Y4NBMK\nRGB Mouse/Keyboard Pad: https://amzn.to/3l2bK8f \nGaming Glasses: https://amzn.to/3Rkd8PP \nHeadset: https://amzn.to/3HlQ5iV \nMicrophone: https://amzn.to/3RkAftF \nMicrophone Stand: https://amzn.to/3jlJ3Tn \nMain Monitor: https://amzn.to/40kFC04 \nSecondary Monitors: https://amzn.to/40baWOy \nTriple Monitor Stand: https://amzn.to/3RmkClf \nE-WIN Gaming Chair: (Discount Code: DCA) https://bit.ly/2mlTBnJ\nMy PC Build:\nCase: https://amzn.to/3Rn9kgA\nMotherboard: https://amzn.to/3WRVkwz \nCPU: https://amzn.to/3JwdvVr \nGPU: https://amzn.to/40dEueF \nRAM (x2): https://amzn.to/3JwdrFb \nCPU Cooler: https://amzn.to/40kH1DS \nRGB Fans (120mm): https://amzn.to/40h6u0N\nRGB Fans (140mm): https://amzn.to/3DzlKMN\nPower Supply: https://amzn.to/3JxOYQ8 \nSSD (M.2): https://amzn.to/3Rlek5m \nSSD: https://amzn.to/3Hohhh1 \nCableMods: https://amzn.to/3HMcOGk \nCapture Card: https://amzn.to/3XSIGyL \n(Disclaimer - As an Amazon Associate I earn from qualifying purchases.)"
+                },
+                "defaultAudioLanguage": "en"
+            }
+        },
+        {
+            "kind": "youtube#video",
+            "etag": "D4Rzv2ZyZMBoqywDFdoa-jpBX34",
+            "id": "XF0kMT39GNY",
+            "snippet": {
+                "publishedAt": "2023-06-11T17:13:03Z",
+                "channelId": "UCZGYJFUizSax-yElQaFDp5Q",
+                "title": "Star Wars Outlaws: World Premiere Trailer",
+                "description": "Watch the World Premiere trailer of Star Wars Outlaws. Introducing scoundrel Kay Vess in the first-ever open world Star Wars game. Coming 2024.\n \nAbout Star Wars Outlaws:\nExperience the first-ever open world Star Wars™ game, set between the events ofThe Empire Strikes Back and Return of the Jedi. Explore distinct planets across the galaxy, both iconic and new. Risk it all as Kay Vess, an emerging scoundrel seeking freedom and the means to start a new life, along with her companion Nix. Fight, steal, and outwit your way through the galaxy’s crime syndicates as you join the galaxy’s most wanted.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XF0kMT39GNY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XF0kMT39GNY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XF0kMT39GNY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/XF0kMT39GNY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/XF0kMT39GNY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "Star Wars",
+                "categoryId": "24",
+                "liveBroadcastContent": "none",
+                "localized": {
+                    "title": "Star Wars Outlaws: World Premiere Trailer",
+                    "description": "Watch the World Premiere trailer of Star Wars Outlaws. Introducing scoundrel Kay Vess in the first-ever open world Star Wars game. Coming 2024.\n \nAbout Star Wars Outlaws:\nExperience the first-ever open world Star Wars™ game, set between the events ofThe Empire Strikes Back and Return of the Jedi. Explore distinct planets across the galaxy, both iconic and new. Risk it all as Kay Vess, an emerging scoundrel seeking freedom and the means to start a new life, along with her companion Nix. Fight, steal, and outwit your way through the galaxy’s crime syndicates as you join the galaxy’s most wanted."
+                },
+                "defaultAudioLanguage": "en-US"
+            }
+        }
+    ],
+    "nextPageToken": "CBkQAA",
+    "pageInfo": {
+        "totalResults": 200,
+        "resultsPerPage": 25
+    }
+}
