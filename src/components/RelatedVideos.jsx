@@ -9,7 +9,8 @@ export default function RelatedVideos({ id }) {
     isLoading,
     error,
     data: videos,
-  } = useQuery(["related", id], () => youtube.relatedVideos(id));
+  } = useQuery(["related", id], () => 
+  youtube.relatedVideos(id), {staleTime: 1000 * 60 * 5} );
 
   return (
     <>
@@ -18,7 +19,7 @@ export default function RelatedVideos({ id }) {
       {videos && (
         <ul>
           {videos.map((video) => (
-            <VideoCard key={video.id} video={video} />
+            <VideoCard key={video.id} video={video} type='list'/>
           ))}
         </ul>
       )}
