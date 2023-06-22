@@ -14,7 +14,7 @@ export default function Videos() {
     // isLoading : 데이터 로딩중일때 true, error : 데이터 로드중 발생한 오류 포착, data: fetch를 통해 반환된 데이터 (이름을 video로 바꿔 사용)
     const { isLoading, error, data: videos } = useQuery(
         ['videos', keyword],
-        () => youtube.search(keyword));
+        () => youtube.search(keyword), {staleTime: 1000 * 60 * 1});
 
     return (
         <div>
